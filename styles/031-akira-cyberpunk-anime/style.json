@@ -1,0 +1,13 @@
+{
+  "id": "031",
+  "slug": "akira-cyberpunk-anime",
+  "name": "Akira cyberpunk anime",
+  "category": "Anime and manga",
+  "visual_dna": "Detailed machinery, red-black palette, cinematic city lighting, psychic destruction.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

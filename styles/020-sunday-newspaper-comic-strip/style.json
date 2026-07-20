@@ -1,0 +1,13 @@
+{
+  "id": "020",
+  "slug": "sunday-newspaper-comic-strip",
+  "name": "Sunday newspaper comic strip",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Economical linework, flat watercolor color, simple props, expressive poses.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

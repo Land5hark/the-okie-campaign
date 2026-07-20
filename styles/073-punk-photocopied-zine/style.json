@@ -1,0 +1,13 @@
+{
+  "id": "073",
+  "slug": "punk-photocopied-zine",
+  "name": "Punk photocopied zine",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Torn photos, ransom typography, black toner noise, handwritten marks.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

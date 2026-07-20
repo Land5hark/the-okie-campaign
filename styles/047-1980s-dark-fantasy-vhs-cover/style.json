@@ -1,0 +1,13 @@
+{
+  "id": "047",
+  "slug": "1980s-dark-fantasy-vhs-cover",
+  "name": "1980s dark-fantasy VHS cover",
+  "category": "Film and television",
+  "visual_dna": "Airbrushed warriors, lightning, glowing castles, worn videocassette print texture.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

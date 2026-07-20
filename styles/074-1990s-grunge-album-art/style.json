@@ -1,0 +1,13 @@
+{
+  "id": "074",
+  "slug": "1990s-grunge-album-art",
+  "name": "1990s grunge album art",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Distressed type, muddy photography, scratched textures, photocopied layers.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

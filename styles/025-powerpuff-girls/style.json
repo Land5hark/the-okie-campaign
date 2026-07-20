@@ -1,0 +1,13 @@
+{
+  "id": "025",
+  "slug": "powerpuff-girls",
+  "name": "Powerpuff Girls",
+  "category": "Western animation",
+  "visual_dna": "Oversized eyes, tiny limbs, thick contours, candy colors, graphic action shapes.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

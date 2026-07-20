@@ -1,0 +1,13 @@
+{
+  "id": "009",
+  "slug": "lisa-frank-school-supply-fantasy",
+  "name": "Lisa Frank school-supply fantasy",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Rainbow gradients, cute animals, hearts, stars, sparkles, saturated neon.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

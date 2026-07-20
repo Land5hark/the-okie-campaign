@@ -1,0 +1,13 @@
+{
+  "id": "010",
+  "slug": "political-stencil-street-art",
+  "name": "Political stencil street art",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Hard-edged monochrome stencils, spray texture, one red accent, ironic symbolism.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

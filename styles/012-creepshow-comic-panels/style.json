@@ -1,0 +1,13 @@
+{
+  "id": "012",
+  "slug": "creepshow-comic-panels",
+  "name": "Creepshow comic panels",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Sickly greens, graveyard lighting, hand-lettered narration, theatrical horror.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "043",
+  "slug": "miami-vice-pastel-crime-drama",
+  "name": "Miami Vice pastel crime drama",
+  "category": "Film and television",
+  "visual_dna": "White fashion, pink-blue sunsets, sports-car gloss, coastal night photography.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

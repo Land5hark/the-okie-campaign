@@ -1,0 +1,13 @@
+{
+  "id": "068",
+  "slug": "progressive-white-box-commercials",
+  "name": "Progressive white-box commercials",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Pure white retail environment, blue accents, bright lighting, ensemble comedy.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

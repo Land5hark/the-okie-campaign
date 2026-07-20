@@ -1,0 +1,13 @@
+{
+  "id": "086",
+  "slug": "grand-theft-auto-loading-illustration",
+  "name": "Grand Theft Auto loading illustration",
+  "category": "Video games and digital culture",
+  "visual_dna": "Black contour lines, posterized shading, segmented character montage.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

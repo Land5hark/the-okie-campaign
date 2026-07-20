@@ -1,0 +1,13 @@
+{
+  "id": "096",
+  "slug": "3d-clay-icon-aesthetic",
+  "name": "3D clay icon aesthetic",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Soft rounded objects, matte pastel material, miniature diorama lighting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

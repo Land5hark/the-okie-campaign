@@ -1,0 +1,13 @@
+{
+  "id": "080",
+  "slug": "k-pop-candy-editorial",
+  "name": "K-pop candy editorial",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Coordinated fashion, spotless colored sets, glossy portrait finish, cute props.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

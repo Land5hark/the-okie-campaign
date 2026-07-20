@@ -1,0 +1,13 @@
+{
+  "id": "100",
+  "slug": "ai-surreal-gloss",
+  "name": "AI surreal gloss",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Impossibly smooth materials, dreamlike object combinations, cinematic glow.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

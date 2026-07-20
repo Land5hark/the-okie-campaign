@@ -1,0 +1,13 @@
+{
+  "id": "070",
+  "slug": "cadbury-gorilla-commercial",
+  "name": "Cadbury Gorilla commercial",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Purple studio atmosphere, solemn close-up, unexpected animal performance.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

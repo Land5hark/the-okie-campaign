@@ -1,0 +1,13 @@
+{
+  "id": "033",
+  "slug": "sailor-moon-magical-girl",
+  "name": "Sailor Moon magical girl",
+  "category": "Anime and manga",
+  "visual_dna": "Long elegant limbs, sparkling transformation effects, celestial pastels.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

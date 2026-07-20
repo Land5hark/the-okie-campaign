@@ -1,0 +1,13 @@
+{
+  "id": "018",
+  "slug": "hellboy-style-occult-pulp",
+  "name": "Hellboy-style occult pulp",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Blocky shapes, heavy black masses, muted red, folklore artifacts.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

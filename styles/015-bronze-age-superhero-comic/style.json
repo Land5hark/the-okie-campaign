@@ -1,0 +1,13 @@
+{
+  "id": "015",
+  "slug": "bronze-age-superhero-comic",
+  "name": "Bronze Age superhero comic",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Muscular anatomy, dynamic foreshortening, flat inks, explosive action lines.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

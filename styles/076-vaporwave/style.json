@@ -1,0 +1,13 @@
+{
+  "id": "076",
+  "slug": "vaporwave",
+  "name": "Vaporwave",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Classical busts, Japanese type cues, checkerboard floors, pink-cyan gradients.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

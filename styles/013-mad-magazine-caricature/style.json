@@ -1,0 +1,13 @@
+{
+  "id": "013",
+  "slug": "mad-magazine-caricature",
+  "name": "MAD magazine caricature",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Exaggerated facial anatomy, painted satire, crowded sight gags.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

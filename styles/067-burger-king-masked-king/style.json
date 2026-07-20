@@ -1,0 +1,13 @@
+{
+  "id": "067",
+  "slug": "burger-king-masked-king",
+  "name": "Burger King masked king",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Fixed smiling royal mascot head, velvet costume, awkward real-world staging.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

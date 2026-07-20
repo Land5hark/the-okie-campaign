@@ -1,0 +1,13 @@
+{
+  "id": "023",
+  "slug": "ren-and-stimpy-gross-up",
+  "name": "Ren and Stimpy gross-up",
+  "category": "Western animation",
+  "visual_dna": "Elastic bodies, manic expressions, grotesque close-ups, painterly backgrounds.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

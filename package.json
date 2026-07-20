@@ -1,0 +1,10 @@
+{
+  "name": "the-okie-campaign",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A 100-style production system for the Okie character campaign.",
+  "scripts": {
+    "build:styles": "node scripts/build-repository.mjs",
+    "validate": "node scripts/validate.mjs"
+  }
+}

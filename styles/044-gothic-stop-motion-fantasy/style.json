@@ -1,0 +1,13 @@
+{
+  "id": "044",
+  "slug": "gothic-stop-motion-fantasy",
+  "name": "Gothic stop-motion fantasy",
+  "category": "Film and television",
+  "visual_dna": "Long limbs, striped clothing, crooked architecture, moonlit tactile puppet surfaces.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

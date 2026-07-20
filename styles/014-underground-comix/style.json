@@ -1,0 +1,13 @@
+{
+  "id": "014",
+  "slug": "underground-comix",
+  "name": "Underground comix",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Dense crosshatching, rubbery bodies, counterculture grime, hand-drawn lettering.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

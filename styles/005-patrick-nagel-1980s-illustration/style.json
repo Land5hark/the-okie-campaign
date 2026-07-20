@@ -1,0 +1,13 @@
+{
+  "id": "005",
+  "slug": "patrick-nagel-1980s-illustration",
+  "name": "Patrick Nagel 1980s illustration",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Pale geometric faces, jet-black shapes, sharp shadows, limited fashion palette.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "060",
+  "slug": "red-bull-line-drawn-commercials",
+  "name": "Red Bull line-drawn commercials",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Loose black outlines, pale color washes, elongated noses, visual punchline.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

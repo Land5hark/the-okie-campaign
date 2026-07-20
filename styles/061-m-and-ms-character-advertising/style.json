@@ -1,0 +1,13 @@
+{
+  "id": "061",
+  "slug": "m-and-ms-character-advertising",
+  "name": "M&M's character advertising",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Glossy candy-like body, white gloves, dimensional studio set, personality pose.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

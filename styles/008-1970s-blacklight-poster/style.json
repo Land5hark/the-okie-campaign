@@ -1,0 +1,13 @@
+{
+  "id": "008",
+  "slug": "1970s-blacklight-poster",
+  "name": "1970s blacklight poster",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Fluorescent ink, deep black field, glowing outlines, psychedelic smoke and stars.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

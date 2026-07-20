@@ -1,0 +1,13 @@
+{
+  "id": "095",
+  "slug": "brutalist-web-graphic",
+  "name": "Brutalist web graphic",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Huge default typography, raw grid, clashing color, exposed interface structure.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

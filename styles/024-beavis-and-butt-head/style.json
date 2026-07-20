@@ -1,0 +1,13 @@
+{
+  "id": "024",
+  "slug": "beavis-and-butt-head",
+  "name": "Beavis and Butt-Head",
+  "category": "Western animation",
+  "visual_dna": "Scratchy outlines, hunched anatomy, awkward facial proportions, muted colors.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "017",
+  "slug": "frank-miller-crime-noir",
+  "name": "Frank Miller crime noir",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Black-and-white silhouettes, hard shadows, selective red, rain-soaked crime atmosphere.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

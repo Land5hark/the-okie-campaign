@@ -1,0 +1,13 @@
+{
+  "id": "048",
+  "slug": "stranger-things-retro-horror-poster",
+  "name": "Stranger Things retro horror poster",
+  "category": "Film and television",
+  "visual_dna": "Painted faces, red storm clouds, bicycles, supernatural backlighting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

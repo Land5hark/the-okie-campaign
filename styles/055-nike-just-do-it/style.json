@@ -1,0 +1,13 @@
+{
+  "id": "055",
+  "slug": "nike-just-do-it",
+  "name": "Nike Just Do It",
+  "category": "Advertising and campaigns",
+  "visual_dna": "High-contrast athletic photography, kinetic crop, sparse motivational typography.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

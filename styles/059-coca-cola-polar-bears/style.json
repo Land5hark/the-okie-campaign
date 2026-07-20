@@ -1,0 +1,13 @@
+{
+  "id": "059",
+  "slug": "coca-cola-polar-bears",
+  "name": "Coca-Cola polar bears",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Soft white fur, icy blue night, selective red accents, sentimental warmth.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

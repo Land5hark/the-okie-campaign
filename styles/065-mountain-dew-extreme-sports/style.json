@@ -1,0 +1,13 @@
+{
+  "id": "065",
+  "slug": "mountain-dew-extreme-sports",
+  "name": "Mountain Dew extreme sports",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Acid green, wide-angle distortion, flying debris, adolescent action energy.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

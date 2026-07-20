@@ -1,0 +1,13 @@
+{
+  "id": "066",
+  "slug": "taco-bell-chihuahua-era",
+  "name": "Taco Bell Chihuahua era",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Tiny mascot as deadpan spokesperson, warm food photography, 1990s polish.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "087",
+  "slug": "street-fighter-ii-portrait-art",
+  "name": "Street Fighter II portrait art",
+  "category": "Video games and digital culture",
+  "visual_dna": "Muscular fighter anatomy, painted arcade shading, dramatic fist, world-stage motifs.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

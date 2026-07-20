@@ -1,0 +1,13 @@
+{
+  "id": "021",
+  "slug": "the-simpsons-television-cartoon",
+  "name": "The Simpsons television cartoon",
+  "category": "Western animation",
+  "visual_dna": "Yellow skin language, overbite profiles, round eyes, flat television-animation color.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "002",
+  "slug": "roy-lichtenstein-comic-pop",
+  "name": "Roy Lichtenstein comic pop",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Ben-Day dots, thick black contours, primary colors, dramatic comic captions.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "037",
+  "slug": "one-piece-pirate-manga",
+  "name": "One Piece pirate manga",
+  "category": "Anime and manga",
+  "visual_dna": "Extreme body shapes, huge expressions, loose ink energy, colorful nautical fantasy.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

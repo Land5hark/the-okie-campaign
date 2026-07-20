@@ -1,0 +1,13 @@
+{
+  "id": "075",
+  "slug": "synthwave-album-cover",
+  "name": "Synthwave album cover",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Neon grid, magenta sunset, chrome title, sports-car cues, distant mountains.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

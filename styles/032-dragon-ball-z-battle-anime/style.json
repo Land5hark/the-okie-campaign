@@ -1,0 +1,13 @@
+{
+  "id": "032",
+  "slug": "dragon-ball-z-battle-anime",
+  "name": "Dragon Ball Z battle anime",
+  "category": "Anime and manga",
+  "visual_dna": "Spiked silhouettes, energy auras, speed lines, explosive muscle tension.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

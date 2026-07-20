@@ -1,0 +1,13 @@
+{
+  "id": "094",
+  "slug": "corporate-flat-illustration",
+  "name": "Corporate flat illustration",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Abstract people, elongated limbs, flat vector shapes, friendly technology palette.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

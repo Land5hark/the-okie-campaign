@@ -1,0 +1,13 @@
+{
+  "id": "016",
+  "slug": "1990s-extreme-superhero-comic",
+  "name": "1990s extreme superhero comic",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Huge muscles, tiny waists, pouches, metallic weapons, aggressive crosshatching.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

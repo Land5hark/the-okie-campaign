@@ -1,0 +1,13 @@
+{
+  "id": "027",
+  "slug": "spongebob-nautical-absurdism",
+  "name": "SpongeBob nautical absurdism",
+  "category": "Western animation",
+  "visual_dna": "Wobbly outlines, tropical colors, painted undersea backgrounds, surreal reactions.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

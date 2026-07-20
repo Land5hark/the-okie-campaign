@@ -1,0 +1,13 @@
+{
+  "id": "030",
+  "slug": "bluey-storybook-animation",
+  "name": "Bluey storybook animation",
+  "category": "Western animation",
+  "visual_dna": "Rounded geometric animals, soft colors, warm domestic environments.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

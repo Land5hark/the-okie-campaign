@@ -1,0 +1,13 @@
+{
+  "id": "004",
+  "slug": "jean-michel-basquiat-neo-expressionism",
+  "name": "Jean-Michel Basquiat neo-expressionism",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Crude crowns, anatomy fragments, scratched words, frantic oil-stick marks.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

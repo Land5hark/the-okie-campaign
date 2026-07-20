@@ -1,0 +1,13 @@
+{
+  "id": "035",
+  "slug": "studio-ghibli-storybook-anime",
+  "name": "Studio Ghibli storybook anime",
+  "category": "Anime and manga",
+  "visual_dna": "Soft watercolor environments, expressive faces, natural light, lived-in fantasy.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

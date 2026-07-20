@@ -1,0 +1,13 @@
+{
+  "id": "064",
+  "slug": "skittles-surreal-advertising",
+  "name": "Skittles surreal advertising",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Ordinary suburbia interrupted by absurd rainbow consequences.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

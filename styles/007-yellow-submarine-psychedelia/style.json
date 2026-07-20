@@ -1,0 +1,13 @@
+{
+  "id": "007",
+  "slug": "yellow-submarine-psychedelia",
+  "name": "Yellow Submarine psychedelia",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Surreal botanical forms, flat rainbow color, decorative curves, dream logic.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "029",
+  "slug": "rick-and-morty-sci-fi-grotesque",
+  "name": "Rick and Morty sci-fi grotesque",
+  "category": "Western animation",
+  "visual_dna": "Uneven pupils, unstable mouths, acidic color, strange alien machinery.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

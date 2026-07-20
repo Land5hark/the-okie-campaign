@@ -1,0 +1,13 @@
+{
+  "id": "049",
+  "slug": "twin-peaks-surreal-americana",
+  "name": "Twin Peaks surreal Americana",
+  "category": "Film and television",
+  "visual_dna": "Red curtains, dark woods, diner interiors, dreamlike portrait lighting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

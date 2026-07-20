@@ -1,0 +1,13 @@
+{
+  "id": "051",
+  "slug": "absolut-vodka-print-campaign",
+  "name": "Absolut Vodka print campaign",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Centered iconic silhouette, clever environmental transformation, minimal caption.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

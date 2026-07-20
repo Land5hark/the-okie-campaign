@@ -1,0 +1,13 @@
+{
+  "id": "099",
+  "slug": "2020s-retro-food-rebrand",
+  "name": "2020s retro-food rebrand",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Rounded 1970s lettering, warm browns and oranges, flat mascot graphics.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "098",
+  "slug": "brat-lime-green-minimalism",
+  "name": "Brat lime-green minimalism",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Acid lime-green field, blurry lowercase typography, deliberately plain composition.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

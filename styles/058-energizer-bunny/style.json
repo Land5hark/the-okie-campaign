@@ -1,0 +1,13 @@
+{
+  "id": "058",
+  "slug": "energizer-bunny",
+  "name": "Energizer Bunny",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Pink toy mascot, sunglasses, blue accents, oversized drum, chaotic demo setting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

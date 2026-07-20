@@ -1,0 +1,13 @@
+{
+  "id": "036",
+  "slug": "neon-genesis-evangelion-techno-anime",
+  "name": "Neon Genesis Evangelion techno-anime",
+  "category": "Anime and manga",
+  "visual_dna": "Tall biomechanical forms, warning graphics, purple-green contrast, severe perspective.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

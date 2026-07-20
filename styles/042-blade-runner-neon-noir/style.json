@@ -1,0 +1,13 @@
+{
+  "id": "042",
+  "slug": "blade-runner-neon-noir",
+  "name": "Blade Runner neon noir",
+  "category": "Film and television",
+  "visual_dna": "Rain, smoky interiors, electric signage, cyan-red reflections, dense future city.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

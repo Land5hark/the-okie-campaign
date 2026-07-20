@@ -1,0 +1,13 @@
+{
+  "id": "053",
+  "slug": "apple-think-different",
+  "name": "Apple Think Different",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Black-and-white cultural portrait, generous white border, tiny color accent.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "082",
+  "slug": "16-bit-snes-pixel-art",
+  "name": "16-bit SNES pixel art",
+  "category": "Video games and digital culture",
+  "visual_dna": "Richer pixel shading, colorful environment, animated highlights, action pose.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

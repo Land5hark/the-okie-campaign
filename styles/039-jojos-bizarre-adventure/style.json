@@ -1,0 +1,13 @@
+{
+  "id": "039",
+  "slug": "jojos-bizarre-adventure",
+  "name": "JoJo's Bizarre Adventure",
+  "category": "Anime and manga",
+  "visual_dna": "Fashion-model poses, sculpted anatomy, ornate costumes, surreal palette shifts.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "079",
+  "slug": "1990s-rave-flyer",
+  "name": "1990s rave flyer",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Warped type, fractals, aliens, fluorescent gradients, dense layering.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

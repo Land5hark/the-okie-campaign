@@ -1,0 +1,13 @@
+{
+  "id": "003",
+  "slug": "keith-haring-subway-mural",
+  "name": "Keith Haring subway mural",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Bold simplified figures, black rhythmic outlines, radiant action marks, flat color.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

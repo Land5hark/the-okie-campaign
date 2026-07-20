@@ -1,0 +1,13 @@
+{
+  "id": "062",
+  "slug": "old-spice-absurdist-commercial",
+  "name": "Old Spice absurdist commercial",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Hyper-clean hero lighting, impossible scene logic, macho visual parody.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

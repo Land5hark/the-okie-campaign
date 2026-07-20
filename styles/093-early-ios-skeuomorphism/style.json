@@ -1,0 +1,13 @@
+{
+  "id": "093",
+  "slug": "early-ios-skeuomorphism",
+  "name": "Early iOS skeuomorphism",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Leather, felt, polished glass buttons, realistic shadows, tactile framing.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

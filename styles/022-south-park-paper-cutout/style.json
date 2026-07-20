@@ -1,0 +1,13 @@
+{
+  "id": "022",
+  "slug": "south-park-paper-cutout",
+  "name": "South Park paper cutout",
+  "category": "Western animation",
+  "visual_dna": "Stacked geometric bodies, construction-paper texture, frontal poses, crude mouths.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

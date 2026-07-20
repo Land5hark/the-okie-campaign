@@ -1,0 +1,13 @@
+{
+  "id": "028",
+  "slug": "adventure-time",
+  "name": "Adventure Time",
+  "category": "Western animation",
+  "visual_dna": "Rounded noodle limbs, tiny dot eyes, clean flat color, whimsical fantasy terrain.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

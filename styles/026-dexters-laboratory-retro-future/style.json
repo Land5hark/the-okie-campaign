@@ -1,0 +1,13 @@
+{
+  "id": "026",
+  "slug": "dexters-laboratory-retro-future",
+  "name": "Dexter's Laboratory retro-future",
+  "category": "Western animation",
+  "visual_dna": "Angular bodies, thick outlines, mid-century machinery, orange-blue palette.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

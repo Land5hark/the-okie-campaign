@@ -1,0 +1,13 @@
+{
+  "id": "038",
+  "slug": "naruto-ninja-anime",
+  "name": "Naruto ninja anime",
+  "category": "Anime and manga",
+  "visual_dna": "Graphic costumes, elemental effects, speed-line combat, cel-shaded landscapes.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "072",
+  "slug": "hip-hop-graffiti-flyer",
+  "name": "Hip-hop graffiti flyer",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Spray-painted lettering, boom boxes, breakdance pose, brick-wall texture.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

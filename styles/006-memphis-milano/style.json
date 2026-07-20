@@ -1,0 +1,13 @@
+{
+  "id": "006",
+  "slug": "memphis-milano",
+  "name": "Memphis Milano",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Squiggles, terrazzo patterns, clashing pastels, playful postmodern geometry.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

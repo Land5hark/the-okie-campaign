@@ -1,0 +1,13 @@
+{
+  "id": "077",
+  "slug": "1970s-disco-record-sleeve",
+  "name": "1970s disco record sleeve",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Mirrored surfaces, starbursts, glamorous posing, gold-purple club lighting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Okie Style Package",
+  "type": "object",
+  "required": [
+    "id",
+    "slug",
+    "name",
+    "category",
+    "visual_dna",
+    "required_text",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9]{3}$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "visual_dna": {
+      "type": "string",
+      "minLength": 20
+    },
+    "required_text": {
+      "type": "object",
+      "required": [
+        "pendant",
+        "speech_bubble"
+      ],
+      "properties": {
+        "pendant": {
+          "const": "OKIE"
+        },
+        "speech_bubble": {
+          "const": "OKIE DOKIE"
+        }
+      }
+    },
+    "status": {
+      "enum": [
+        "not_started",
+        "draft",
+        "review",
+        "approved"
+      ]
+    }
+  }
+}

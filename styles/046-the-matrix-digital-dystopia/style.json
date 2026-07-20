@@ -1,0 +1,13 @@
+{
+  "id": "046",
+  "slug": "the-matrix-digital-dystopia",
+  "name": "The Matrix digital dystopia",
+  "category": "Film and television",
+  "visual_dna": "Green code, black leather, frozen-action pose, fluorescent industrial lighting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

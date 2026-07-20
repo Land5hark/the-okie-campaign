@@ -1,0 +1,13 @@
+{
+  "id": "001",
+  "slug": "andy-warhol-screen-print",
+  "name": "Andy Warhol screen print",
+  "category": "Pop art and graphic movements",
+  "visual_dna": "Repeated portraits, misregistered ink, fluorescent color blocks, visible silkscreen grain.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

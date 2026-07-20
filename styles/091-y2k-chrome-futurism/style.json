@@ -1,0 +1,13 @@
+{
+  "id": "091",
+  "slug": "y2k-chrome-futurism",
+  "name": "Y2K chrome futurism",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Liquid chrome type, translucent plastic, lens flares, icy blue and pink.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "054",
+  "slug": "apple-ipod-silhouettes",
+  "name": "Apple iPod silhouettes",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Flat black dancing figure, bright solid background, white accessory lines.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

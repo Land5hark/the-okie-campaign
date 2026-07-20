@@ -1,0 +1,13 @@
+{
+  "id": "052",
+  "slug": "got-milk-celebrity-portrait",
+  "name": "Got Milk celebrity portrait",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Dramatic studio portrait, white milk-mustache gag, sparse copy.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

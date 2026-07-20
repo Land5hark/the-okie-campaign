@@ -1,0 +1,13 @@
+{
+  "id": "069",
+  "slug": "sony-bravia-color-campaign",
+  "name": "Sony Bravia color campaign",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Real urban environment flooded with thousands of bright color objects.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

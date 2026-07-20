@@ -1,0 +1,13 @@
+{
+  "id": "045",
+  "slug": "symmetrical-pastel-storybook-cinema",
+  "name": "Symmetrical pastel storybook cinema",
+  "category": "Film and television",
+  "visual_dna": "Centered framing, curated props, restrained expression, coordinated colors.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "083",
+  "slug": "1980s-arcade-cabinet-art",
+  "name": "1980s arcade cabinet art",
+  "category": "Video games and digital culture",
+  "visual_dna": "Painted explosions, exaggerated heroes, glowing logo space, action montage.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

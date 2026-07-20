@@ -1,0 +1,13 @@
+{
+  "id": "097",
+  "slug": "sticker-bomb-maximalism",
+  "name": "Sticker-bomb maximalism",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Layered decals, doodles, mascots, slogans, mismatched outlines and textures.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

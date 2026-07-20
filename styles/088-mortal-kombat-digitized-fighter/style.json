@@ -1,0 +1,13 @@
+{
+  "id": "088",
+  "slug": "mortal-kombat-digitized-fighter",
+  "name": "Mortal Kombat digitized fighter",
+  "category": "Video games and digital culture",
+  "visual_dna": "Photographic sprite appearance, dark arena, theatrical martial-arts stance.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

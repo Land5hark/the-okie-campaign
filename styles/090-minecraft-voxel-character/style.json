@@ -1,0 +1,13 @@
+{
+  "id": "090",
+  "slug": "minecraft-voxel-character",
+  "name": "Minecraft voxel character",
+  "category": "Video games and digital culture",
+  "visual_dna": "Cubic anatomy, pixel textures, block-built environment, square lighting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

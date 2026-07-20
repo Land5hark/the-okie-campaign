@@ -1,0 +1,13 @@
+{
+  "id": "084",
+  "slug": "playstation-1-low-poly",
+  "name": "PlayStation 1 low-poly",
+  "category": "Video games and digital culture",
+  "visual_dna": "Angular model, warped pixel texture, vertex lighting, foggy early-3D setting.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

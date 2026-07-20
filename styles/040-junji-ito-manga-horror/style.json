@@ -1,0 +1,13 @@
+{
+  "id": "040",
+  "slug": "junji-ito-manga-horror",
+  "name": "Junji Ito manga horror",
+  "category": "Anime and manga",
+  "visual_dna": "Fine black crosshatching, distorted anatomy, spirals, obsessive monochrome detail.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

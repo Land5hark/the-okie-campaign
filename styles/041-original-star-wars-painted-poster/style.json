@@ -1,0 +1,13 @@
+{
+  "id": "041",
+  "slug": "original-star-wars-painted-poster",
+  "name": "Original Star Wars painted poster",
+  "category": "Film and television",
+  "visual_dna": "Heroic triangular composition, airbrushed faces, glowing weapons, cosmic backdrop.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

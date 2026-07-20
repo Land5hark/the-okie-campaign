@@ -1,0 +1,13 @@
+{
+  "id": "011",
+  "slug": "ec-comics-horror-cover",
+  "name": "EC Comics horror cover",
+  "category": "Comics, pulp, and print",
+  "visual_dna": "Grotesque expressions, lurid inks, hand-painted shadows, shocking pulp composition.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

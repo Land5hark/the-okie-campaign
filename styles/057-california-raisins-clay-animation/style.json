@@ -1,0 +1,13 @@
+{
+  "id": "057",
+  "slug": "california-raisins-clay-animation",
+  "name": "California Raisins clay animation",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Lumpy purple clay bodies, white gloves, expressive faces, Motown stage pose.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

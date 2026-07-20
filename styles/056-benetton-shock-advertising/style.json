@@ -1,0 +1,13 @@
+{
+  "id": "056",
+  "slug": "benetton-shock-advertising",
+  "name": "Benetton shock advertising",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Editorial documentary photograph, socially charged staging, blunt realism.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

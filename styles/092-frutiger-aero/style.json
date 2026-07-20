@@ -1,0 +1,13 @@
+{
+  "id": "092",
+  "slug": "frutiger-aero",
+  "name": "Frutiger Aero",
+  "category": "Internet-era and current graphics",
+  "visual_dna": "Blue skies, green grass, bubbles, glassy interfaces, optimistic eco-technology.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "034",
+  "slug": "pokemon-anime",
+  "name": "Pokemon anime",
+  "category": "Anime and manga",
+  "visual_dna": "Rounded mascot anatomy, clean cel shading, bright nature, energetic poses.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

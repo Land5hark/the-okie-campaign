@@ -1,0 +1,13 @@
+{
+  "id": "089",
+  "slug": "fortnite-promotional-3d",
+  "name": "Fortnite promotional 3D",
+  "category": "Video games and digital culture",
+  "visual_dna": "Stylized proportions, clean materials, saturated light, action ensemble.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "078",
+  "slug": "1980s-hair-metal-airbrush",
+  "name": "1980s hair-metal airbrush",
+  "category": "Music, fashion, and youth culture",
+  "visual_dna": "Chrome lettering, leather, flames, lightning, fantasy pinup drama.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

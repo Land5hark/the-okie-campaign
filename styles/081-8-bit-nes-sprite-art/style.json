@@ -1,0 +1,13 @@
+{
+  "id": "081",
+  "slug": "8-bit-nes-sprite-art",
+  "name": "8-bit NES sprite art",
+  "category": "Video games and digital culture",
+  "visual_dna": "Tiny pixel grid, limited palette, hard-edged forms, simplified silhouette.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "085",
+  "slug": "dreamcast-era-y2k-3d",
+  "name": "Dreamcast-era Y2K 3D",
+  "category": "Video games and digital culture",
+  "visual_dna": "Bright plastic surfaces, rounded future architecture, cyan-orange optimism.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}

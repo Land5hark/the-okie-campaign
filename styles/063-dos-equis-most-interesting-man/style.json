@@ -1,0 +1,13 @@
+{
+  "id": "063",
+  "slug": "dos-equis-most-interesting-man",
+  "name": "Dos Equis Most Interesting Man",
+  "category": "Advertising and campaigns",
+  "visual_dna": "Sophisticated adventurer portrait, amber bar lighting, luxury travel cues.",
+  "canonical_reference": "../../../character/reference/okie-canonical.jpg",
+  "required_text": {
+    "pendant": "OKIE",
+    "speech_bubble": "OKIE DOKIE"
+  },
+  "status": "not_started"
+}
