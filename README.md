@@ -133,7 +133,7 @@ Ryan's approved 1536×1536 source image is bundled at `character/reference/okie-
 
 ## Fast workflow
 
-1. Add the approved canonical image.
+1. Confirm the bundled canonical image passes validation.
 2. Choose a numbered style folder.
 3. Read its `AGENTS.md`, `STYLE.md`, and `PROMPT.md`.
 4. Generate into `assets/generated/`.

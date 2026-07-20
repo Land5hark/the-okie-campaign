@@ -1,10 +1,11 @@
-# Publish to GitHub
+# GitHub repository
 
-Create a repository named `the-okie-campaign` without generated starter files, then run:
+The project is published at:
+
+`https://github.com/Land5hark/the-okie-campaign`
+
+Clone it with:
 
 ```bash
-git remote add origin https://github.com/Land5hark/the-okie-campaign.git
-git push -u origin main
+git clone https://github.com/Land5hark/the-okie-campaign.git
 ```
-
-The local repository already contains its initial commit on `main`.
